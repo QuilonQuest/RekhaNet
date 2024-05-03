@@ -1,1 +1,2 @@
 peer lifecycle chaincode package educert.tar.gz --path ../chaincode/tcert --lang node --label educert_1.0
+peer lifecycle chaincode install educert.tar.gz
